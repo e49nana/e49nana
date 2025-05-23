@@ -10,7 +10,7 @@
 
 ## 📊 Projects
 - 🔬 [Scientific Simulation](https://github.com/e49nana/Scientific-Simulation-Project) – Physics-based modeling & visualization using Python (NumPy, SciPy, Matplotlib)
-- 💹 [Algorithmic Trading](https://github.com/e49nana/algorithmic-trading-ninjatrader) – Backtested trading strategies with C# in NinjaTrader
+- 💹 [Algorithmic Trading](https://github.com/e49nana/NinjaScript-Indicators)– Indicators and backtested trading strategies with C# in NinjaTrader
 - 🧠 LLM Image Captioning – Generative AI for automated image descriptions (coming soon)
 - 🤖 CNN/MLP Classification – Deep learning models with TensorFlow/Keras
 
