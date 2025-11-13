@@ -1,24 +1,39 @@
 # 👋 Hi, I'm Emmanuel Nana Nana
 
-🎓 Data Science & Machine Learning Student | Applied Mathematics & Physics (B.Sc.) at TH Nürnberg  
-🚀 Passionate about scientific computing, generative AI, and algorithmic trading
+**B.Sc. Applied Mathematics & Physics @ TH Nürnberg (AMP)**  
+Aiming for **MSc @ TUM** and an **exchange at École Polytechnique (EuroTech)**  
+Interested in **scientific computing**, **numerical simulation**, and **data-driven engineering**.
+
+---
+
+## 🎯 Academic Focus
+- Numerical Analysis · PDEs · Optimization · Scientific Computing
+- Data Science for physical systems (simulation + ML)
+- International track: semester & internship abroad (SoSe 2027 / WiSe 27–28)
+
+---
 
 ## 🧠 Tech Stack
-- **Languages:** Python, C#, SQL, Java (basics), R  
-- **Libraries/Tools:** Pandas, NumPy, SciPy, TensorFlow, Keras, scikit-learn, Matplotlib  
-- **Others:** NinjaTrader, Docker, Git, Heroku, REST APIs, Power BI, Tableau
+**Languages:** Python, C#, SQL, Java, R  
+**Libraries:** NumPy, SciPy, Pandas, scikit-learn, TensorFlow/Keras, Matplotlib  
+**Tools:** Git, Docker, Jupyter, LaTeX, REST APIs  
+**Optional (finance):** NinjaTrader, Power BI, Tableau
 
-## 📊 Projects
-- 🔬 [Scientific Simulation](https://github.com/e49nana/Scientific-Simulation-Project) – Physics-based modeling & visualization using Python (NumPy, SciPy, Matplotlib)
-- 💹 [Algorithmic Trading](https://github.com/e49nana/Algorithmic-trading)– Indicators and backtested trading strategies with C# in NinjaTrader
-- [50 Programming and technical projects by difficult level](https://github.com/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level)
-- 🧠 LLM Image Captioning – Generative AI for automated image descriptions (coming soon)
-- 🤖 CNN/MLP Classification – Deep learning models with TensorFlow/Keras
+---
 
-## 🌱 Currently learning
-- Prompt Engineering for LLMs  
-- Streamlit & Hugging Face Demos  
-- Advanced numerical optimization
+## 📊 Projects (selected)
+- 🔬 **Scientific Simulation** — Physics-based modelling & visualization (Python: NumPy, SciPy, Matplotlib)  
+  👉 https://github.com/e49nana/Scientific-Simulation-Project
+- 💹 **Algorithmic Trading** — Indicators + backtested strategies (C# / NinjaTrader)  
+  👉 https://github.com/e49nana/Algorithmic-trading
+- 📚 **50 Programming & Technical Projects (by difficulty)** — Practice roadmap & reference  
+  👉 https://github.com/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level
+- 🧠 **LLM Image Captioning** — Generative AI for automated image descriptions *(coming soon)*  
+- 🤖 **CNN/MLP Classification** — Deep learning baselines (TensorFlow/Keras)
 
-## 📫 Reach me at
-[LinkedIn](https://www.linkedin.com/in/emmanuel-nana) • e49nana@gmail.com
+> Tip: each project includes a short **README** with context, methods, results, and “skills learned”.
+
+---
+
+## 📘 Coursework → Code
+I use GitHub as my study log. Each course maps to a folder or notebook:
