@@ -23,6 +23,27 @@ Focus: **Numerical Simulation • Scientific Computing • AI**
 | 🚀 **Side-Activities** | AI/ML, demos, experimental work | Python · TensorFlow | ![last](https://img.shields.io/github/last-commit/e49nana/Side-Activities) |
 
 ---
+## 🎯 Current Focus (WiSe 25/26)
+
+📚 **Exam Season:** *Jan 20 – Feb 13, 2026*
+---
+
+## 📈 2026 Goals
+
+- [ ] Heat Equation Solver (FD / FEM) with visualization  
+- [ ] Complete **Scientific Computing** portfolio  
+- [ ] MSc applications: **TUM** + **École Polytechnique**  
+- [ ] Launch educational content (Math & Trading)
+
+---
+
+## 💡 Fun Fact
+
+> I believe in learning by building.  
+> Every concept I study becomes **code**, a **visualization**, or a **trading indicator**.
+
+> *“The best way to understand something is to implement it.”*
+
 
 ## 🗺️ Roadmap (next milestones)
 - [ ] WiSe 25/26: **Heat Equation Solver (FD/FEM)** - **Image Compresssion with lineare algebra** — publish notebook & plots
