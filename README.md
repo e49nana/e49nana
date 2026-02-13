@@ -11,7 +11,7 @@
 <!-- QUICK BADGES -->
 [![B-AMP @ TH Nürnberg](https://img.shields.io/badge/B--AMP-TH_Nürnberg-0f4c75?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.th-nuernberg.de/)
 [![Target: MSc @ TUM](https://img.shields.io/badge/Target-MSc_@_TUM-3070b3?style=for-the-badge&logo=academia&logoColor=white)](#-roadmap)
-[![École Polytechnique](https://img.shields.io/badge/Exchange-École_Polytechnique-c1272d?style=for-the-badge&logo=academia&logoColor=white)](#-roadmap)
+[![École Polytechnique](https://img.shields.io/badge/Goal-Double_MSc_École_Polytechnique-c1272d?style=for-the-badge&logo=academia&logoColor=white)](#-roadmap)
 
 </div>
 
@@ -23,12 +23,14 @@
 name: Emmanuel Nana Nana
 location: Nürnberg, Germany
 education: B.Sc. Applied Mathematics & Physics (TH Nürnberg) — 4th semester
-focus: Numerical Simulation • Scientific Computing • AI/ML
+focus: Numerical Simulation • Scientific Computing • Algorithmic Trading • AI/ML
+target: MSc @ TUM (CSE / Math in Data Science) → Double MSc @ École Polytechnique (MScT)
 philosophy: "The best way to understand something is to implement it."
 ```
 
 I'm a hands-on student who turns every concept into **code**, a **visualization**, or a **trading indicator**.  
-Currently preparing for **MSc @ TUM** with an exchange at **École Polytechnique** via the EuroTech program.
+My strongest results are in applied & computational modules — **1.7 in Simulation Seminar** and **1.7 in Physics Lab** this semester.  
+Currently building toward **MSc @ TUM** with a double degree at **École Polytechnique** via the EuroTech program.
 
 ---
 
@@ -41,23 +43,24 @@ Currently preparing for **MSc @ TUM** with an exchange at **École Polytechnique
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-**Frameworks & Tools**
+**Scientific Computing & ML**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Platforms**
+**Platforms & Tools**
 
 ![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
-![NinjaTrader](https://img.shields.io/badge/NinjaTrader-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -71,13 +74,21 @@ Currently preparing for **MSc @ TUM** with an exchange at **École Polytechnique
 
 | | Repo | Description | Tech | |
 |---|---|---|---|---|
-| 🔬 | [**Scientific-Simulation-Project**](https://github.com/e49nana/Scientific-Simulation-Project) | Physics-based modelling & visualization | Python · R · C# | ![stars](https://img.shields.io/github/stars/e49nana/Scientific-Simulation-Project?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/Scientific-Simulation-Project?style=flat&color=8b949e) |
-| 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Indicators & backtested strategies | MQL5 · C# | ![stars](https://img.shields.io/github/stars/e49nana/Algorithmic-trading?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/Algorithmic-trading?style=flat&color=8b949e) |
-| 📚 | [**50-Projects-by-Difficulty**](https://github.com/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level) | Practice roadmap & references | Markdown | ![stars](https://img.shields.io/github/stars/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level?style=flat&color=8b949e) |
-| 📘 | [**AMP-Studies**](https://github.com/e49nana/AMP-Studies) | Coursework, notebooks, semester projects | Python · MATLAB · LaTeX | ![last](https://img.shields.io/github/last-commit/e49nana/AMP-Studies?style=flat&color=8b949e) |
-| 🚀 | [**Side-Activities**](https://github.com/e49nana/Side-Activities) | AI/ML, demos, experimental work | Python · TensorFlow | ![last](https://img.shields.io/github/last-commit/e49nana/Side-Activities?style=flat&color=8b949e) |
+| 🔬 | [**Scientific-Simulation-Project**](https://github.com/e49nana/Scientific-Simulation-Project) | Physics-based modelling, PDE solvers & visualization | Python · R · C# | ![stars](https://img.shields.io/github/stars/e49nana/Scientific-Simulation-Project?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/Scientific-Simulation-Project?style=flat&color=8b949e) |
+| 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Expert Advisors, indicators & backtested strategies | MQL5 · C# | ![stars](https://img.shields.io/github/stars/e49nana/Algorithmic-trading?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/Algorithmic-trading?style=flat&color=8b949e) |
+| 📚 | [**50-Projects-by-Difficulty**](https://github.com/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level) | Practice roadmap & technical references | Markdown | ![stars](https://img.shields.io/github/stars/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/50-Programming-and-Technical-Projects-by-Difficulty-Level?style=flat&color=8b949e) |
+| 📘 | [**AMP-Studies**](https://github.com/e49nana/AMP-Studies) | Coursework, notebooks & semester projects | Python · MATLAB · LaTeX | ![last](https://img.shields.io/github/last-commit/e49nana/AMP-Studies?style=flat&color=8b949e) |
+| 🚀 | [**Side-Activities**](https://github.com/e49nana/Side-Activities) | AI/ML experiments, demos & exploratory work | Python · TensorFlow | ![last](https://img.shields.io/github/last-commit/e49nana/Side-Activities?style=flat&color=8b949e) |
 
 </div>
+
+### 🔜 Coming Next
+
+| Project | Description | Target |
+|---|---|---|
+| 🌡️ PDE Solver Toolkit | Heat/wave equation solvers (FD, FEM) with interactive visualizations | SoSe 2026 |
+| 📐 Numerical Optimization Lab | Gradient descent, Newton methods, constrained optimization | SoSe 2026 |
+| 🧮 Linear Algebra Applications | Image compression (SVD), PageRank, spectral methods | WiSe 2026/27 |
 
 ---
 
@@ -100,14 +111,24 @@ Currently preparing for **MSc @ TUM** with an exchange at **École Polytechnique
 
 ```mermaid
 timeline
-    title Academic & Project Milestones
-    WiSe 25/26 : Heat Equation Solver (FD/FEM)
-                : Image Compression (Linear Algebra)
-    SoSe 26    : PDE-Constrained Optimization
-                : MSc Applications (TUM + Polytechnique)
-    WiSe 26/27 : International Mobility Prep
-    SoSe 27    : Semester Abroad
-    WiSe 27/28 : Bachelor Thesis
+    title Academic & Project Trajectory
+    section TH Nürnberg
+        SoSe 2026 (Sem 4)   : 🔴 Physik II + PDE Solver Toolkit
+                              : Numerical Optimization Lab
+                              : Target ≤ 1.7 on applied modules
+        WiSe 2026/27 (Sem 5) : 🟠 Advanced Numerics (FEM, PDE-constrained opt.)
+                              : IELTS/TOEFL official test
+                              : First technical report / poster
+        SoSe 2027 (Sem 6)    : 🟡 International exchange OR R&D internship
+                              : Full reproducible GitHub project
+        WiSe 2027/28 (Sem 7) : 🟢 Bachelor capstone project
+                              : TUM application prep (CV, reco letters)
+        SoSe 2028 (Sem 8)    : 🔵 TUM admission + Bachelor defense
+    section TUM & Polytechnique
+        WiSe 2028/29          : 🎓 MSc @ TUM — PDEs, NumLinAlg, Optimization
+        2029/30               : Double Degree prep → École Polytechnique
+        2030/31               : 🇫🇷 MScT @ École Polytechnique (X)
+        2031+                 : PhD cotutelle or R&D / DeepTech
 ```
 
 ---
@@ -117,7 +138,19 @@ timeline
 <div align="center">
 
 > *"I believe in learning by building.*  
-> *Every concept I study becomes code, a visualization, or a trading indicator."*
+> *Every concept I study becomes code, a visualization, or a trading indicator.*  
+> *The path from Nürnberg to TUM to Polytechnique is paved with implemented equations."*
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-nanaemmanuel49@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nanaemmanuel49@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-e49nana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/e49nana)
 
 </div>
 
