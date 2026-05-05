@@ -85,6 +85,7 @@ philosophy: "The best way to understand something is to implement it."
 | 🛢️ | [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI-powered crude oil trading — geopolitical scoring via Claude API, real-time dashboard, 98 tests | FastAPI · React/TS · Docker |
 | 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source trading tools + AlgoSphere Quant showcase (14 commercial products) | MQL5 · C# · Python |
 | 🔬 | [**Scientific-Simulation-Project**](https://github.com/e49nana/Scientific-Simulation-Project) | SVD image compression, numerical precision, symbolic math, robotics | Python · NumPy · SciPy |
+| 🤖 | [**Hansi AI Goggles**](https://github.com/e49nana/hansi-ai-goggles) | Embedded AI vision system — ESP32-S3 + React Native + GPT-4o Vision | C/C++ · React Native · IoT |
 | 📘 | [**AMP-Studies**](https://github.com/e49nana/AMP-Studies) | B.Sc. coursework: cheatsheets, implementations, notes by semester | Python · LaTeX |
 
 </div>
@@ -100,6 +101,8 @@ philosophy: "The best way to understand something is to implement it."
 ---
 
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=e49nana&theme=onedark&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=e49nana&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
