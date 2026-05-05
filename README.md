@@ -19,8 +19,9 @@
 ```yaml
 name: Emmanuel Nana Nana
 location: Nürnberg, Germany
+age: 20
 education: B.Sc. Applied Mathematics & Physics (TH Nürnberg) — 4th semester
-business: Founder @ AlgoSphere Quant (14 products on MQL5 Marketplace)
+business: Founder @ AlgoSphere Quant (14 commercial products on MQL5 Marketplace)
 languages: French (native) · German (C1/DSH-2) · English (B2+)
 seeking: Pflichtpraktikum WS 2026/27 — Data Science / ML / Software Dev
 focus:
@@ -61,12 +62,13 @@ philosophy: "The best way to understand something is to implement it."
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Platforms & Tools**
+**Infrastructure**
 
-![MetaTrader 5](https://img.shields.io/badge/MetaTrader_5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -78,7 +80,8 @@ philosophy: "The best way to understand something is to implement it."
 
 | | Repo | Description | Tech |
 |---|---|---|---|
-| 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source trading tools + AlgoSphere Quant showcase (14 products) | MQL5 · C# · Python |
+| 🛢️ | [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI-powered crude oil trading system — geopolitical scoring via Claude API, real-time dashboard, 98 tests | FastAPI · React/TS · Claude API · Docker |
+| 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source trading tools + AlgoSphere Quant showcase (14 commercial products) | MQL5 · C# · Python |
 | 🔬 | [**Scientific-Simulation-Project**](https://github.com/e49nana/Scientific-Simulation-Project) | SVD image compression, numerical precision, symbolic math, robotics | Python · NumPy · SciPy |
 | 📘 | [**AMP-Studies**](https://github.com/e49nana/AMP-Studies) | B.Sc. coursework: cheatsheets, implementations, notes by semester | Python · LaTeX |
 
