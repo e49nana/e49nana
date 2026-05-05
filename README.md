@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=220&section=header&text=Emmanuel%20Nana%20Nana&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Applied%20Mathematics%20%26%20Physics%20%7C%20Data%20Science%20%7C%20ML%20%7C%20Algorithmic%20Trading&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=220&section=header&text=Emmanuel%20Nana%20Nana&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Applied%20Mathematics%20%26%20Physics%20%7C%20Data%20Science%20%7C%20Quantitative%20Finance&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Numerical+Simulation+%E2%80%A2+Data+Science+%E2%80%A2+ML+%E2%80%A2+Algorithmic+Trading;Building+what+I+learn+%E2%80%94+from+PDEs+to+neural+networks." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=ML+%E2%80%A2+Scientific+Computing+%E2%80%A2+Algorithmic+Trading;Building+what+I+learn+%E2%80%94+from+PDEs+to+neural+networks." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -22,7 +22,9 @@ location: Nürnberg, Germany
 age: 20
 education: B.Sc. Applied Mathematics & Physics (TH Nürnberg) — 4th semester
 business: Founder @ AlgoSphere Quant (14 commercial products on MQL5 Marketplace)
-languages: French (native) · German (C1/DSH-2) · English (B2+)
+languages:
+  spoken: French (native) · German (C1/DSH-2) · English (B2+) · Spanish (A1) · Russian (A1)
+  code: Python · TypeScript · C/C++ · C# · MQL5 · Java
 seeking: Pflichtpraktikum WS 2026/27 — Data Science / ML / Software Dev
 focus:
   - Numerical Simulation & Scientific Computing
@@ -80,7 +82,7 @@ philosophy: "The best way to understand something is to implement it."
 
 | | Repo | Description | Tech |
 |---|---|---|---|
-| 🛢️ | [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI-powered crude oil trading system — geopolitical scoring via Claude API, real-time dashboard, 98 tests | FastAPI · React/TS · Claude API · Docker |
+| 🛢️ | [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI-powered crude oil trading — geopolitical scoring via Claude API, real-time dashboard, 98 tests | FastAPI · React/TS · Docker |
 | 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source trading tools + AlgoSphere Quant showcase (14 commercial products) | MQL5 · C# · Python |
 | 🔬 | [**Scientific-Simulation-Project**](https://github.com/e49nana/Scientific-Simulation-Project) | SVD image compression, numerical precision, symbolic math, robotics | Python · NumPy · SciPy |
 | 📘 | [**AMP-Studies**](https://github.com/e49nana/AMP-Studies) | B.Sc. coursework: cheatsheets, implementations, notes by semester | Python · LaTeX |
@@ -97,18 +99,9 @@ philosophy: "The best way to understand something is to implement it."
 
 ---
 
-## GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=e49nana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e49nana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
-
-</div>
-
----
-
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=e49nana&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 ![Visitors](https://komarev.com/ghpvc/?username=e49nana&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
