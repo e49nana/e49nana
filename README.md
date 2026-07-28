@@ -111,7 +111,7 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 
 **Lokus Research** — Phase 2a in progress: replicating the Time-of-Day Opening Range Breakout literature on CME micro futures (MES/MNQ, M1 data) under a strict walk-forward protocol with Bonferroni-corrected baseline comparisons.
 
-**Erasmus+ SS 2027** — Confirmed nomination at ISEL Lisboa (Instituto Politécnico de Lisboa); course strategy in preparation.
+**Erasmus+ SS 2027** — Confirmed nomination at the Instituto Politécnico de Lisboa (Lisbon Polytechnic); course strategy in preparation.
 
 ---
 
@@ -126,7 +126,7 @@ timeline
     Q4 2026 : Praktikum — industry workflows
             : First technical blog post
             : First external open-source contribution
-    2027    : Erasmus+ semester @ ISEL Lisboa (SS 2027)
+    2027    : Erasmus+ @ Instituto Politécnico de Lisboa (SS 2027)
             : Bachelorarbeit — battery storage dispatch on EPEX Spot
 ```
 
