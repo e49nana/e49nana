@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=220&section=header&text=Emmanuel%20Nana%20Nana&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Applied%20Mathematics%20%26%20Physics%20%7C%20Data%20Science%20%7C%20Algorithmic%20Trading&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=220&section=header&text=Emmanuel%20Nana%20Nana&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Applied%20Mathematics%20%26%20Physics%20%7C%20Embedded%20%7C%20Quantitative%20Finance&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Embedded+%E2%80%A2+Scientific+Computing+%E2%80%A2+Algorithmic+Trading;Building+what+I+learn+%E2%80%94+from+firmware+to+neural+networks." alt="Typing SVG" /></a>
@@ -11,7 +11,7 @@
 <!-- QUICK BADGES -->
 [![B-AMP @ TH Nürnberg](https://img.shields.io/badge/B--AMP-TH_Nürnberg-0f4c75?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.th-nuernberg.de/)
 [![AlgoSphere Quant](https://img.shields.io/badge/AlgoSphere_Quant-14_Products-0f6b3a?style=for-the-badge)](https://algosphere-quant.com)
-[![Praktikum](https://img.shields.io/badge/Pflichtpraktikum-Aug_2026-0f6b3a?style=for-the-badge)](#-current-focus)
+[![Erasmus+](https://img.shields.io/badge/Erasmus+-ISEL_Lisbon_SS_2027-0038A8?style=for-the-badge)](#-current-focus)
 
 </div>
 
@@ -21,13 +21,16 @@
 
 ```yaml
 name: Emmanuel Nana Nana
+age: 20
 location: Nürnberg, Germany
-education: B.Sc. Applied Mathematics & Physics (TH Nürnberg) — entering 5th semester
+education: B.Sc. Applied Mathematics & Physics (TH Nürnberg) — 5th semester (WiSe 26/27)
 business: Founder @ AlgoSphere Quant (14 commercial products on MQL5 Marketplace)
 languages:
-  spoken: French (native) · German (C1/DSH-2) · English (B2+) · Spanish (A1) · Russian (A1)
+  spoken: French (native) · German (C1 / TELC C1 Hochschule) · English (B2+ / DAAD) · Spanish (A1) · Russian (A1)
   code: Python · TypeScript · C/C++ · C# · MQL5 · Java
-next: Pflichtpraktikum starting August 2026 — Embedded Systems / Test Engineering
+upcoming:
+  - Erasmus+ @ ISEL Lisbon (SS 2027)
+  - Pflichtpraktikum @ ProMik — Embedded Systems & Test Engineering (Aug 2027)
 research: Lokus — walk-forward backtesting of intraday futures strategies
 focus:
   - Embedded Systems & Hardware-near Programming (C/C++, ESP32)
@@ -53,6 +56,7 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Embedded**
 
@@ -75,6 +79,7 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
 **Infrastructure**
 
@@ -94,12 +99,12 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 
 | | Repo | Description | Tech | |
 |---|---|---|---|---|
-| 🤖 | [**Hansi AI Goggles**](https://github.com/e49nana/hansi-ai-goggles) | Embedded AI vision — ESP32-S3 smart glasses: camera driver, firmware, BLE/Wi-Fi pipeline to mobile app, real-time recognition | Embedded C/C++ · ESP32-S3 · React Native | ![last](https://img.shields.io/github/last-commit/e49nana/hansi-ai-goggles?style=flat&color=8b949e) |
+| 🧠 | [**OpenJarvis**](https://github.com/e49nana/OpenJarvis) | Personal AI assistant — Tauri desktop app, modular Python backend, local-first architecture | Python · Rust/Tauri · React | ![last](https://img.shields.io/github/last-commit/e49nana/OpenJarvis?style=flat&color=8b949e) |
+| 🤖 | [**Hansi AI Goggles**](https://github.com/e49nana/hansi-ai-goggles) | Embedded AI vision — ESP32-S3 smart glasses: camera driver, firmware, BLE/Wi-Fi pipeline, real-time recognition | Embedded C/C++ · ESP32-S3 · React Native | ![last](https://img.shields.io/github/last-commit/e49nana/hansi-ai-goggles?style=flat&color=8b949e) |
 | 📈 | [**lokus-research**](https://github.com/e49nana/lokus-research) | Quantitative research — walk-forward backtesting of intraday futures strategies (428 tests, bootstrap CIs, Bonferroni) | Python · pandas · pytest | ![last](https://img.shields.io/github/last-commit/e49nana/lokus-research?style=flat&color=8b949e) |
 | 🛢️ | [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI crude oil trading — geopolitical scoring via Claude API, real-time dashboard, 98 tests | FastAPI · React/TS · Docker | ![last](https://img.shields.io/github/last-commit/e49nana/Djibril-AI?style=flat&color=8b949e) |
-| 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source trading tools + AlgoSphere Quant showcase (14 products) | MQL5 · C# · Python | ![stars](https://img.shields.io/github/stars/e49nana/Algorithmic-trading?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/Algorithmic-trading?style=flat&color=8b949e) |
+| 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source trading tools + AlgoSphere Quant showcase (14 commercial products) | MQL5 · C# · Python | ![stars](https://img.shields.io/github/stars/e49nana/Algorithmic-trading?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/Algorithmic-trading?style=flat&color=8b949e) |
 | 🔬 | [**Scientific-Simulation-Project**](https://github.com/e49nana/Scientific-Simulation-Project) | SVD image compression, numerical precision, symbolic math, robotics | Python · NumPy · SciPy | ![last](https://img.shields.io/github/last-commit/e49nana/Scientific-Simulation-Project?style=flat&color=8b949e) |
-| 📘 | [**AMP-Studies**](https://github.com/e49nana/AMP-Studies) | B.Sc. coursework: cheatsheets, implementations, notes by semester | Python · LaTeX | ![last](https://img.shields.io/github/last-commit/e49nana/AMP-Studies?style=flat&color=8b949e) |
 
 </div>
 
@@ -107,11 +112,13 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 
 ## 🎯 Current Focus
 
-**Pflichtpraktikum** — Starting August 2026 in Nürnberg: embedded systems, flash programming & test engineering for electronic control units.
+**WiSe 2026/27** — 43 LP planned this semester including Physik IV/V, Algorithmen & Datenstrukturen, Numerik 2, Programmierung I & II, and electives.
 
-**Lokus Research** — Phase 2a in progress: replicating the Time-of-Day Opening Range Breakout literature on CME micro futures (MES/MNQ, M1 data) under a strict walk-forward protocol with Bonferroni-corrected baseline comparisons.
+**Erasmus+ @ ISEL Lisbon (SS 2027)** — Confirmed nomination at the Instituto Politécnico de Lisboa. Courses in Machine Learning, Graphs & Networks, Advanced Modelling & Simulation. Learning Agreement in preparation.
 
-**Erasmus+ SS 2027** — Confirmed nomination at the Instituto Politécnico de Lisboa (Lisbon Polytechnic); course strategy in preparation.
+**Pflichtpraktikum (Aug 2027)** — Planned at ProMik Programmiersysteme, Nürnberg — embedded systems, flash programming & test engineering for electronic control units.
+
+**Lokus Research** — Walk-forward backtesting of intraday futures strategies on CME micro futures (MES/MNQ) under strict statistical protocol.
 
 ---
 
@@ -119,15 +126,16 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 
 ```mermaid
 timeline
-    title 2026–2027 Milestones
-    Q3 2026 : Pflichtpraktikum starts (August) — embedded systems & test engineering
-            : Lokus Phase 2a — TORB replication complete
-            : Djibril AI — CI/CD + live demo deployment
-    Q4 2026 : Praktikum — industry workflows
-            : First technical blog post
-            : First external open-source contribution
-    2027    : Erasmus+ @ Instituto Politécnico de Lisboa (SS 2027)
-            : Bachelorarbeit — battery storage dispatch on EPEX Spot
+    title 2026–2028 Milestones
+    WiSe 26/27 : 43 LP at TH Nürnberg
+               : Lokus Phase 2a — TORB replication
+               : First technical blog post
+    SS 2027    : Erasmus+ @ ISEL Lisbon
+               : Machine Learning & Advanced Simulation courses
+               : Bachelorarbeit topic definition (co-supervision TH/ISEL)
+    WiSe 27/28 : Pflichtpraktikum @ ProMik (Aug–Dec 2027)
+               : Bachelorarbeit — embedded systems / microelectronics
+               : Final 18 LP + graduation
 ```
 
 ---
