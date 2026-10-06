@@ -108,7 +108,7 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 
 ## 🎯 Current Focus
 
-**WiSe 2026/27** — 43 LP planned this semester including Physik IV/V, Algorithmen & Datenstrukturen, Numerik 2, Programmierung I & II, and electives.
+**WiSe 2026/27** — Numerik (Grundlagen & Numerik 2), Lineare und Nichtlineare Optimierung, Funktionalanalysis mit Anwendungen, Physik IV (Kerne und Teilchen).
 
 **Erasmus+ @ ISEL Lisbon (SS 2027)** — Confirmed nomination at the Instituto Politécnico de Lisboa. Courses in Machine Learning, Graphs & Networks, Advanced Modelling & Simulation. Learning Agreement in preparation.
 
@@ -123,7 +123,7 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 ```mermaid
 timeline
     title 2026–2028 Milestones
-    WiSe 26/27 : 43 LP at TH Nürnberg
+    WiSe 26/27 : Numerik, Optimierung, Funktionalanalysis, Physik IV
                : Lokus Phase 2a — TORB replication
                : First technical blog post
     SS 2027    : Erasmus+ @ ISEL Lisbon
