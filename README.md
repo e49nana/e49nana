@@ -151,7 +151,6 @@ timeline
 
 <div align="center">
 
-[![ghfind score](https://ghfind.com/api/badge/e49nana)](https://ghfind.com/en/u/e49nana)
 
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
 
