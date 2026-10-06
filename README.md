@@ -101,7 +101,6 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 | 📈 | [**lokus-research**](https://github.com/e49nana/lokus-research) | Quantitative research — walk-forward backtesting of intraday futures strategies (428 tests, bootstrap CIs, Bonferroni) | Python · pandas · pytest | ![last](https://img.shields.io/github/last-commit/e49nana/lokus-research?style=flat&color=8b949e) |
 | 🛢️ | [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI crude oil trading — geopolitical scoring via Claude API, real-time dashboard, 98 tests | FastAPI · React/TS · Docker | ![last](https://img.shields.io/github/last-commit/e49nana/Djibril-AI?style=flat&color=8b949e) |
 | 💹 | [**Algorithmic-Trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source trading tools + AlgoSphere Quant showcase (14 commercial products) | MQL5 · C# · Python | ![stars](https://img.shields.io/github/stars/e49nana/Algorithmic-trading?style=flat&color=58a6ff) ![last](https://img.shields.io/github/last-commit/e49nana/Algorithmic-trading?style=flat&color=8b949e) |
-| 🔬 | [**Scientific-Simulation-Project**](https://github.com/e49nana/Scientific-Simulation-Project) | SVD image compression, numerical precision, symbolic math, robotics | Python · NumPy · SciPy | ![last](https://img.shields.io/github/last-commit/e49nana/Scientific-Simulation-Project?style=flat&color=8b949e) |
 
 </div>
 
