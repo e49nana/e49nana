@@ -56,7 +56,6 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![MQL5](https://img.shields.io/badge/MQL5-4A76A8?style=for-the-badge&logo=metatrader5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Embedded**
 
@@ -79,7 +78,6 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
 **Infrastructure**
 
@@ -99,7 +97,6 @@ I'm a hands-on student who turns every concept into **code**, a **visualization*
 
 | | Repo | Description | Tech | |
 |---|---|---|---|---|
-| 🧠 | [**OpenJarvis**](https://github.com/e49nana/OpenJarvis) | Personal AI assistant — Tauri desktop app, modular Python backend, local-first architecture | Python · Rust/Tauri · React | ![last](https://img.shields.io/github/last-commit/e49nana/OpenJarvis?style=flat&color=8b949e) |
 | 🤖 | [**Hansi AI Goggles**](https://github.com/e49nana/hansi-ai-goggles) | Embedded AI vision — ESP32-S3 smart glasses: camera driver, firmware, BLE/Wi-Fi pipeline, real-time recognition | Embedded C/C++ · ESP32-S3 · React Native | ![last](https://img.shields.io/github/last-commit/e49nana/hansi-ai-goggles?style=flat&color=8b949e) |
 | 📈 | [**lokus-research**](https://github.com/e49nana/lokus-research) | Quantitative research — walk-forward backtesting of intraday futures strategies (428 tests, bootstrap CIs, Bonferroni) | Python · pandas · pytest | ![last](https://img.shields.io/github/last-commit/e49nana/lokus-research?style=flat&color=8b949e) |
 | 🛢️ | [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI crude oil trading — geopolitical scoring via Claude API, real-time dashboard, 98 tests | FastAPI · React/TS · Docker | ![last](https://img.shields.io/github/last-commit/e49nana/Djibril-AI?style=flat&color=8b949e) |
