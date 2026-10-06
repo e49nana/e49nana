@@ -152,8 +152,17 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=e49nana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e49nana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
+[![ghfind score](https://ghfind.com/api/badge/e49nana)](https://ghfind.com/en/u/e49nana)
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%"/>
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%"/>
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=e49nana&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
