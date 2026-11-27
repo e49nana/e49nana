@@ -24,7 +24,7 @@ Ideally with the same company: the Werkstudent position can turn into my mandato
 | [**Algorithmic-trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source MetaTrader 5 and NinjaTrader 8 tools, plus the AlgoSphere Quant showcase. | MQL5 · C# |
 | [**hansi-ai-goggles**](https://github.com/e49nana/hansi-ai-goggles) | DIY AI smart goggles: two ESP32-S3 firmwares (camera/mic/BLE server, LVGL HUD) and a browser companion app with GPT-4o vision (demo mode). | C++ · ESP32-S3 · BLE · LVGL |
 
-**In progress, not public yet:** `pde-blocks`, neural-network building blocks derived from PDE discretisation schemes, with a benchmark (Anwendungsprojekt "Physical AI", TH Nürnberg) · `numerical-methods`, numerical analysis, ODE solvers and optimization methods, each tested against NumPy/SciPy.
+**In progress, not public yet:** `pde-blocks`, neural-network building blocks derived from PDE discretisation schemes, with a benchmark (Anwendungsprojekt "Physical AI", TH Nürnberg).
 
 ### 🛠️ Stack
 
