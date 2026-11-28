@@ -19,8 +19,8 @@ Ideally with the same company: the Werkstudent position can turn into my mandato
 
 | Repo | What it is | Stack |
 |---|---|---|
-| [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI-assisted crude-oil trading system: signal collectors, geopolitical scoring via the Claude API, FastAPI backend, React/TS dashboard, MT5 execution. 98 tests, CI. | Python · FastAPI · React/TS · Docker |
-| [**lokus-research**](https://github.com/e49nana/lokus-research) | Quantitative research on intraday futures: walk-forward protocol, sealed holdout, bootstrap confidence intervals, Bonferroni correction. 428 tests, CI. | Python · pandas · scikit-learn · pytest |
+| [**Djibril-AI**](https://github.com/e49nana/Djibril-AI) | AI-assisted crude-oil trading system: signal collectors, geopolitical scoring via the Claude API, FastAPI backend, React/TS dashboard, MT5 execution. 106 tests, CI on Python 3.12/3.13. | Python · FastAPI · React/TS · Docker |
+| [**lokus-research**](https://github.com/e49nana/lokus-research) | Quantitative research on intraday futures: walk-forward protocol, sealed holdout, bootstrap confidence intervals, Bonferroni correction. 428 tests, 95 % coverage, CI. | Python · pandas · scikit-learn · pytest |
 | [**Algorithmic-trading**](https://github.com/e49nana/Algorithmic-trading) | Open-source MetaTrader 5 and NinjaTrader 8 tools, plus the AlgoSphere Quant showcase. | MQL5 · C# |
 | [**hansi-ai-goggles**](https://github.com/e49nana/hansi-ai-goggles) | DIY AI smart goggles: two ESP32-S3 firmwares (camera/mic/BLE server, LVGL HUD) and a browser companion app with GPT-4o vision (demo mode). | C++ · ESP32-S3 · BLE · LVGL |
 
